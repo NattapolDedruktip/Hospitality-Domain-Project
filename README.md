@@ -68,4 +68,33 @@ At the top of the dashboard, there are three types of filters available for bett
 In the middle left section of the visualization, there are **six key metrics** provided by the stakeholders.
 
 - Below each metric, there is a **percentage change** that compares the current value to the **previous week**.
-- Beneath these six metrics, a table breaks down the data **by type of day** (weekday vs. weekend), showing key figures for each category.
+- Beneath these six metrics, a table breaks down the data **by type of day** (weekday vs. weekend), showing key figures for each day type.
+
+## Charts
+
+### Donut chart
+
+![donut chart](/assets/donut.JPG)
+
+- The donut chart in the middle displays the occupancy percentage for each hotel category based on the selected time period from the filters.
+
+### Line Chart
+
+![line Chart](/assets/lineChart.JPG)
+
+- The line chart in the middle right of the visualization displays RevPAR, ADR, and Occupancy %. It illustrates the trend over time, showing variations across different months.
+
+### Combo chart (Bar and line)
+
+![Bar Chart](/assets/barchart.JPG)
+
+
+- The chart in the bottom left of the visualization displays ADR (Average Daily Rate) for each booking platform, helping to compare performance across different platforms.
+
+![table](/assets/table.JPG)
+
+- The table in the bottom right of the visualization displays all key metrics, along with additional information such as average ratings for different properties. It is especially useful when comparing properties against each other.
+
+
+# Analysis
+
