@@ -13,7 +13,7 @@ What this project does:
 
 
     
-### Background
+# Background
 
 This project focuses on analyzing data from the hospitality industry in India, designed as a practical learning experience guided by an expert resource. The workflow followed a structured process demonstrated in a tutorial, including a mock scenario to simulate real-world stakeholder interactions. Here’s how the project was carried out:
 
@@ -48,3 +48,24 @@ The data was sourced from the YouTube channel [codebasics](https://www.youtube.c
 | Realisation % | Successful "checked out" percentage over all bookings. | `DIVIDE(SUM(Bookings[CheckedOut]), SUM(Bookings[TotalBookings]))` |
 | DSRN | Daily Sellable Room Nights: Average rooms ready to sell per day over a specific period. | `AVERAGEX(CalendarTable, SUM(Rooms[AvailableRooms]))` |
 | RavPAR | Revenue per Available Room. RevPAR can help hotels measure themselves against other properties or brands. | `DIVIDE(SUM(Sales[Revenue]), SUM(Rooms[AvailableRooms]))` |
+
+# Visualization
+
+## filter
+
+![filter](assets\filter.JPG)
+
+At the top of the dashboard, there are three types of filters available for better data exploration and analysis:
+
+- **Filter by City**: Allows users to focus on data from specific cities.
+- **Filter by Room Type**: Includes two filters for room type (added as a mock-up to accommodate potential future enhancements).
+- **Filter by Time Period**: Enables filtering by time frames, such as month or week, to analyze trends over specific periods.
+
+## Key Metrics
+
+![key metrics](assets\keyMetrics.JPG)
+
+In the middle left section of the visualization, there are **six key metrics** provided by the stakeholders.
+
+- Below each metric, there is a **percentage change** that compares the current value to the **previous week**.
+- Beneath these six metrics, a table breaks down the data **by type of day** (weekday vs. weekend), showing key figures for each category.
