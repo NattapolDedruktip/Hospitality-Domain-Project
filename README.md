@@ -8,7 +8,8 @@ What this project does:
 - Focuses on key metrics provided by stakeholders.
 - Analyzes 3 months of data to uncover useful insights.
 
-![overview DashBoard](assets\overview_DB.gif)
+
+![overview](assets\overview_DB.gif)
 
 
     
