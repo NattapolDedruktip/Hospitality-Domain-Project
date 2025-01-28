@@ -53,7 +53,7 @@ The data was sourced from the YouTube channel [codebasics](https://www.youtube.c
 
 ## filter
 
-![filter](assets\filter.JPG)
+![filter](/assets/filter.JPG)
 
 At the top of the dashboard, there are three types of filters available for better data exploration and analysis:
 
@@ -63,7 +63,7 @@ At the top of the dashboard, there are three types of filters available for bett
 
 ## Key Metrics
 
-![key metrics](assets\keyMetrics.JPG)
+![key metrics](/assets/keyMetrics.JPG)
 
 In the middle left section of the visualization, there are **six key metrics** provided by the stakeholders.
 
