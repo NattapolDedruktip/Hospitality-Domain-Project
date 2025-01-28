@@ -9,7 +9,7 @@ What this project does:
 - Analyzes 3 months of data to uncover useful insights.
 
 
-![overview](assets\overview_DB.gif)
+![overview](/assets/overview_DB.gif)
 
 
     
