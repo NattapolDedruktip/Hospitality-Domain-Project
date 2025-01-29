@@ -51,7 +51,6 @@ The data was sourced from the YouTube channel [codebasics](https://www.youtube.c
 
 # Visualization
 
-## filter
 
 ![filter](/assets/filter.JPG)
 
@@ -75,7 +74,7 @@ In the middle left section of the visualization, there are **six key metrics** p
 
 ## Charts
 
-### Donut chart
+### Donut Chart
 
 ![donut chart](/assets/donut.JPG)
 
@@ -87,7 +86,7 @@ In the middle left section of the visualization, there are **six key metrics** p
 
 - The line chart in the middle right of the visualization displays RevPAR, ADR, and Occupancy %. It illustrates the trend over time, showing variations across different months.
 
-### Combo chart (Bar and line)
+### Combo Chart (Bar And Line)
 
 ![Bar Chart](/assets/barchart.JPG)
 
