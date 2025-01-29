@@ -103,7 +103,7 @@ In the middle left section of the visualization, there are **six key metrics** p
 
 ![lineChart Analysis](/assets/lineChartAnalysis.JPG)
 
-There are many ways to increase revenue in the **hospitality industry**, and **pricing strategy** is one of the most effective approaches.
+There are many ways to increase revenue in the hospitality industry, and **pricing strategy** is one of the most effective approaches.
 
 From this line chart, we can observe two key metrics:
 
@@ -118,4 +118,43 @@ Looking at the trends over the **three-month period**, we can see that while **o
 
 - According to the stakeholders, this suggests that **the same pricing strategy is being applied to both weekdays and weekends**
 
+![platform analysis](/assets/platfromAnalysis.JPG)
+- Normally, ADR from direct offline bookings is expected to be the highest, while direct online bookings should have the lowest ADR. However, based on the data, the **gap is only around 150**, which stakeholders feel is too small.
+
+- Stakeholders **recommend focusing on direct online bookings to increase revenue**. However, they also advise **not to set different prices across platforms**, as this could **negatively impact hotel rankings and even lead to removal from some platforms**.
+
+- Instead, the recommended approach is to **keep the same price across all platforms** and give them discount codes but use **higher discount codes for direct online bookings** to encourage more bookings through this channel.
+
+
+![table analysis](/assets/tableAnalysis.JPG)
+- From the data, it seems that **Occupancy %, Average Rating, and Revenue are correlated**. This suggests that hotels with **higher ratings tend to generate more revenue and have better occupancy rates**.
+
+- To dive deeper, a **Level 2 analysis** would be needed to understand **why some hotels have lower ratings** and how improving these ratings could lead to higher revenue. However, at this stage, we **don’t have enough data** to determine the specific reasons behind the lower ratings.
+
+- To move forward, collecting more data on **guest reviews, service quality, and customer feedback** would help identify areas for improvement and drive better performance.
+
 # Solutions
+
+Stakeholders mentioned that hotels usually follow one of these three pricing models:
+
+1. **Flat Pricing** – Same price every day.
+2. **Weekend/Weekday Pricing** – Different prices for weekends and weekdays.
+3. **Dynamic Pricing** – Prices change based on demand, season, or other factors.
+
+Looking at the dashboard data, it seems like these hotels are using **Flat Pricing**, since **ADR stays almost the same** even though **weekend occupancy is higher than weekdays**.
+
+
+- Based on just the data we have here, **switching to a Weekend/Weekday Pricing model would make sense**. It’s a simple change but could help **bring in more revenue on high-demand days** without making pricing too complicated.
+
+
+
+
+- **Increase Direct Booking Revenue**: Offer **exclusive incentives** (e.g., discounts, loyalty points, extra perks) to encourage bookings through the hotel’s own platform. Enhance the **user experience** for seamless direct booking, implement **targeted promotions** to attract repeat customers, and reduce reliance on OTA commissions.
+
+- **Conduct Level 2 Analysis on Low-Performing Hotels**: Focus on the **five lowest-performing properties**, analyzing why they have **lower ratings** and how improvements could lead to higher revenue. Gather insights from **customer feedback, service quality, location, and pricing strategies**, then apply targeted improvements to enhance guest satisfaction and boost performance.
+
+
+
+## Acknowledgment
+
+This project could not have been completed without the guidance and support the valuable tutorials on  [codebasics](https://www.youtube.com/@codebasics)
