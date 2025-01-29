@@ -70,6 +70,9 @@ In the middle left section of the visualization, there are **six key metrics** p
 - Below each metric, there is a **percentage change** that compares the current value to the **previous week**.
 - Beneath these six metrics, a table breaks down the data **by type of day** (weekday vs. weekend), showing key figures for each day type.
 
+![hover key metric](/assets/hoverKeyMetric.JPG)
+- You can hover over any key metric to see its trend over time, allowing for a better understanding of how it has changed across different periods.
+
 ## Charts
 
 ### Donut chart
@@ -98,3 +101,21 @@ In the middle left section of the visualization, there are **six key metrics** p
 
 # Analysis
 
+![lineChart Analysis](/assets/lineChartAnalysis.JPG)
+
+There are many ways to increase revenue in the **hospitality industry**, and **pricing strategy** is one of the most effective approaches.
+
+From this line chart, we can observe two key metrics:
+
+- **ADR (Average Daily Rate)** – This represents the **average revenue per room sold**, reflecting the pricing strategy of the hotel.
+- **Occupancy %** – This indicates the **ratio of successful bookings to total room capacity**, showing the demand for rooms during a specific period.
+
+Looking at the trends over the **three-month period**, we can see that while **occupancy % fluctuates significantly**, **ADR remains relatively stable**. This suggests that these hotels **may not be implementing any dynamic pricing strategies**
+
+![weekday weekend Analysis](/assets/weekDayWeekEndAnalysis.JPG)
+
+- The data above compares **Week 30 to Week 31**. One key observation is that while **weekend occupancy rates are 7% higher than weekdays**, the **ADR (Average Daily Rate) difference is only around 50**.
+
+- According to the stakeholders, this suggests that **the same pricing strategy is being applied to both weekdays and weekends**
+
+# Solutions
