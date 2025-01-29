@@ -38,7 +38,7 @@ The data was sourced from the YouTube channel [codebasics](https://www.youtube.c
 
 [reference tutorial](https://www.youtube.com/watch?v=tT4V7zguCnc&list=PLeo1K3hjS3uv_e0HUEu1CVCOikPay64p8)
 
-# Metrics list
+# Metrics List
 
 | Measure | Description | DAX Formula |
 | --- | --- | --- |
